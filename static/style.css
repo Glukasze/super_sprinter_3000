@@ -1,0 +1,18 @@
+h1{
+    color: dodgerblue;
+}
+table{
+    width: 80%;
+    border: solid cornflowerblue;
+    border-collapse: collapse;
+}
+th, td{
+    padding: 10px;
+}
+button{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+body{
+    background-color: gainsboro;
+}
